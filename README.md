@@ -55,7 +55,7 @@ or
 
 You can find released version on CDNs.
 
-[jsDelivr](http://www.jsdelivr.com/)
+[jsDelivr](http://www.jsdelivr.com/) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/angular-gantt/badge?style=rounded)](https://www.jsdelivr.com/package/npm/angular-gantt)
 
     //cdn.jsdelivr.net/npm/angular-gantt@latest/dist/angular-gantt.min.js
     //cdn.jsdelivr.net/npm/angular-gantt@latest/dist/angular-gantt.min.css
